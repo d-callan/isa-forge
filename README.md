@@ -1,6 +1,10 @@
+<img src="isa-forge-logo.png" alt="ISA-Forge Logo" width="60" align="left" style="margin-right: 15px;">
+
 # ISA-Forge
 
 **Human-in-the-loop ISA-Tab generator using LLMs**
+
+<br clear="left"/>
 
 ISA-Forge is a CLI tool that generates ISA-Tab metadata files from BioProject data, publications, and local metadata files. It uses Large Language Models (LLMs) to infer study design, map terms to ontologies, and resolve uncertainties through interactive conversation.
 
