@@ -1,6 +1,4 @@
-<img src="isa-forge-logo.png" alt="ISA-Forge Logo" width="60" align="left" style="margin-right: 15px;">
-
-# ISA-Forge
+# ISA-Forge <img src="isa-forge-logo.png" alt="ISA-Forge Logo" align="right" height="260" style="float:right; height:260px;"/>
 
 **Human-in-the-loop ISA-Tab generator using LLMs**
 
